@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "error-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100090095242819",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61565555250798",
     ""
   ],
   "OWNER": ["100000959749712"], 
